@@ -4,15 +4,14 @@
     box-sizing: border-box;
 }
 
-.h1 {
-    font-size: 3em;
-    color: lime;
-    text-align: center;
-    font-family: 'Hind', sans-serif;
+.logo {
+    height: 70px;
+    width: max-content;
+    margin: 20px auto;
 }
 
-.h1 span {
-    color: white;
+.logo img {
+    height: 100%;
 }
 
 body {
